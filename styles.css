@@ -1,0 +1,161 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    color: #333;
+    background-color: #f4f1f8;
+}
+header {
+    background: #6a4c93;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+section {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+}
+h1 {
+    font-size: 2.5rem;
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    color: #6a4c93;
+    border-bottom: 2px solid #ffca3a;
+
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.img-container{
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 3/1;
+    overflow: hidden;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    display: inline-block;
+    background: #ffca3a;
+    color: #333;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: transform 0.2s;
+}
+.btn:hover {
+    transform: scale(1.05);
+}
+footer {
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.9rem;
+    color: #777;
+}
+.tagline {
+    font-style: italic;
+    color: #eee;
+}
+
+.p-1{
+    padding: 1rem;
+}
+
+.p-2{
+    padding: 2rem;
+}
+
+.py-1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.py-2{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+
+}
+
+.pb-1{
+    padding-bottom: 1rem;
+}
+
+.pb-2{
+    padding-bottom: 2rem;
+}
+
+.pt-1{
+    padding-top: 1rem;
+}
+
+.pt-2{
+    padding-top: 2rem;
+}
+
+
+.m-1{
+    margin: 1rem;
+}
+
+.m-2{
+    margin: 2rem;
+}
+
+.mx-1{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.mx-2{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.my-1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.my-2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.mb-1{
+    margin-bottom: 1rem;
+}
+
+.mb-2{
+    margin-bottom: 2rem;
+}
+
+.mt-1{
+    margin-top: 1rem;
+}
+
+.mt-2{
+    margin-top: 2rem;
+}
+
+
